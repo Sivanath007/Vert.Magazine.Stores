@@ -1,0 +1,1 @@
+# Vert.Magazine.Stores
